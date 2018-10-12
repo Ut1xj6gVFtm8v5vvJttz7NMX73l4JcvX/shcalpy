@@ -1,3 +1,5 @@
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
 """
     Copyright 2018 Bryan Webb
 
@@ -18,7 +20,11 @@
 """
 
 
-# https://glowingpython.blogspot.com/2012/03/linear-regression-with-numpy.html
+"""
+Adapted from:
+
+https://glowingpython.blogspot.com/2012/03/linear-regression-with-numpy.html
+"""
 
 
 import numpy as np
@@ -117,3 +123,4 @@ if "__main__" == __name__:
 
     print linear_least_squares_fit_xy_lists(x_list, y_list)
     print linear_least_squares_fit_tup_list(tup_list)
+

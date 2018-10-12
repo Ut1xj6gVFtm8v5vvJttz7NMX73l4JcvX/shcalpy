@@ -9,7 +9,7 @@ After a friend and I assembled it, I set about researching how to “program” 
 
 I made quite a few small projects, building up my knowledge and skills along the way.  All milling is done within a coordinate system relative to an origin defined for the piece.  The piece is held firmly in place to the Shapeoko's HDF table.
 
-As I progressed, I noticed a minor problem in that when milling a flat surface, the tool bit would cut into one side of a flat 1 inch thick piece before the other.  Since the piece was firmly clamped to the table, this meant that the table was not parallel to the plane that the bit traveled.  This would translate to a 0.25 mm (0.1 in) difference in thickness over a 150 mm (6 in) distance.
+As I progressed, I noticed a minor problem in that when milling a flat surface, the tool bit would cut into one side of a flat 1 inch thick piece before the other.  Since the piece was firmly clamped to the table, this meant that the table was not parallel to the plane that the bit traveled.  This would translate to a 0.25 mm (0.01 in) difference in thickness over a 150 mm (6 in) distance.
 
 When attempting to mill 2-sided projects, I encountered a problem that was also difficult to solve.  These projects involve milling, say, the bottom (and inside) of a piece and then flipping it over complete the machining of the top (and outside).  This is not as easy as it seems, particularly if you want the machining of holes to line up on both sides of the piece.  My attempts often had these holes misaligned by 1 mm or more, even with my best efforts.
 
