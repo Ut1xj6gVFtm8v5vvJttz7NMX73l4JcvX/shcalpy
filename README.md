@@ -42,7 +42,7 @@ I'm assuming you know your Shapeoko and have some electronics skills.
 ### Electronics and tools for doing the measurements...
 
 4. Raspberry Pi with power supply, USB Cable, keyboard, mouse, monitor and cable
-5. Several feet of 26 AWG wire, two 1200 ohm resistors, ability to wire up a simple circuit
+5. Several feet of 26 AWG wire, two 1200 ohm resistors, ability to wire up a [simple circuit](/Pictures/ShapeokoCircuit.png)
 6. iGaging Depth Gauge (Item# 400-D69) or equivalent
 7. HDPE, LDPE or ABS: 1" thick, to make the mount for the depth gauge 
 8. Either ABS glue or 4 screws & nuts to put the depth gauge and its mount together
